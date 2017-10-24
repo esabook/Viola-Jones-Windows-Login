@@ -4,7 +4,7 @@ Requirement:
 
    as example this is compiled required assembly from EMGU.CV
    
-   Image: Assembly of EMGU.CV library
+   Image: Assembly of EMGU.CV library  <br>
    ![](/raw/RequuiredEmguAssemblyFile.PNG)
 
 2. `LogonUI.exe` as temporary overrider. see on [https://github.com/esabook/LogonUI](https://github.com/esabook/LogonUI).
