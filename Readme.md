@@ -13,4 +13,6 @@ Requirement:
 
 4. `haarcascade_mukadepan.xml` as `ViolaJones` algorithm file configuration.
 
+Overview:
 
+![](/raw/violajones.gif)
